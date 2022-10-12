@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-brand-colors-projects/static/css/main.badb02d0.css",
+    "main.js": "/react-brand-colors-projects/static/js/main.3f940470.js",
+    "static/media/logo.png": "/react-brand-colors-projects/static/media/logo.6e29c12f2dcc4e5fdc1d.png",
+    "index.html": "/react-brand-colors-projects/index.html",
+    "main.badb02d0.css.map": "/react-brand-colors-projects/static/css/main.badb02d0.css.map",
+    "main.3f940470.js.map": "/react-brand-colors-projects/static/js/main.3f940470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badb02d0.css",
+    "static/js/main.3f940470.js"
+  ]
+}
